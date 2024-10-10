@@ -1,0 +1,1 @@
+{"name":"Local: ok","url":"e:\\code\\ok.cpp","tests":[{"id":1711734772245,"input":"shadiq\n","output":""},{"id":1711737998913,"input":"yes","output":""},{"id":1711738187302,"input":"uthen","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\ok.cpp","group":"local","local":true}
